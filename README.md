@@ -1,3 +1,1 @@
-- Hi, I’m @Elmar099
-- I’m interested in Full-Stack Web Development
-- I am currently a junior in college
+- Hi I like coding stuff
