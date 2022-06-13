@@ -5,8 +5,7 @@ All About Me
 - 🎢 internship hunting
 - 📍 Living in Silicon Valley 
 
-Other Interests
-==
+## Other Interests
 - 🎹 I love making music on my piano
 - ⚽ I love playing soccer or volleyball
 - 🎮 I love competitive gaming
