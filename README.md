@@ -1,6 +1,3 @@
-![Uploading tumblr_3aef13b96a08c81b12e521b0205eb673_7767ab57_500.gif…]()
-
-
 - 🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
 - 👨‍💻 Interested in fullstack and machine learning
 - 🎢 internship hunting
