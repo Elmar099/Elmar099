@@ -1,7 +1,7 @@
--🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
--👨‍💻 Interested in fullstack and machine learning
--🎢 internship hunting
--📍 Living in Silicon Valley 
+- 🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
+- 👨‍💻 Interested in fullstack and machine learning
+- 🎢 internship hunting
+- 📍 Living in Silicon Valley 
 
 Other Interests
 ===
