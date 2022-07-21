@@ -2,7 +2,7 @@ All About Me
 ===
 - 🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
 - 👨‍💻 Interested in fullstack and machine learning
-- 🎢 internship hunting
+- 🎢 Building fullstack projects
 - 📍 Living in Silicon Valley 
 
 ## Other Interests
