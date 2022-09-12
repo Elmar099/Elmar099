@@ -10,5 +10,3 @@ All About Me
 - ⚽ I love playing soccer or volleyball
 - 🎮 I love competitive gaming
 - 📚 I love learning new things
-
-![s](http://www.dlgwaea.org/uploads/2/8/6/8/28680443/giphy_3_orig.gif)
