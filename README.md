@@ -1,6 +1,5 @@
-Hello My name is Elmar [![wavegif](https://cdn3.emoji.gg/emojis/wavegif_1860.gif)](https://emoji.gg/emoji/wavegif_1860)
+=== Hello My name is Elmar[![wavegif](https://cdn3.emoji.gg/emojis/wavegif_1860.gif)](https://emoji.gg/emoji/wavegif_1860)
 
-===
 - 🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
 - 👨‍💻 Interested in fullstack and machine learning
 - 🎢 Building fullstack projects
