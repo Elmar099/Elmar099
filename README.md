@@ -1,4 +1,4 @@
-Hello My name is Elmar ![wavegif_1860](https://user-images.githubusercontent.com/101601240/190842721-a37c6c8f-fe9e-4e90-b825-2054ff1b9a4d.gif)
+Hello My name is Elmar [![wavegif](https://cdn3.emoji.gg/emojis/wavegif_1860.gif)](https://emoji.gg/emoji/wavegif_1860)
 
 ===
 - 🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
