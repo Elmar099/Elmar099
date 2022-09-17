@@ -1,4 +1,4 @@
-Hello my name is Elmar
+Hello my name is Elmar <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40" height="40" />
 ===
 - 🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
 - 👨‍💻 Interested in fullstack and machine learning
