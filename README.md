@@ -10,3 +10,5 @@ Hello my name is Elmar <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" 
 - ⚽ I love playing soccer or volleyball
 - 🎮 I love competitive gaming
 - 📚 I love learning new things
+
+https://c.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif
