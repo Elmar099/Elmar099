@@ -11,5 +11,5 @@ Hello my name is Elmar <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" 
 - 🎮 I love competitive gaming
 - 📚 I love learning new things
 
-![Alt Text](https://c.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif)
+![gif](https://i.pinimg.com/originals/74/1e/00/741e008482ca69a9a78dd7730f7bcea3.gif)
 
