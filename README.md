@@ -2,8 +2,8 @@ Hello my name is Elmar <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" 
 ===
 - 🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
 - 👨‍💻 Interested in fullstack and machine learning
-- 🎢 Currently working on IOS projects 
-- 📍 Living in Silicon Valley California 
+- 🎢 Currently working on a React project 
+- 📍 Living in Silicon Valley CA 
 
 ## Other Interests
 - 🎹 I love making music on my piano
