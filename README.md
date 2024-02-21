@@ -10,5 +10,6 @@ Hello I'm Elmar <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="
 - 🏐 I love playing soccer or volleyball
 - 🎮 I love competitive gaming
 - 📚 I love reading philosophy
+  
 <img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b76110c89d38c12d48fd8f7984d64449d491e233fbe1c&rid=giphy.gif&ct=s"
 width="300" height="300" />
