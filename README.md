@@ -1,8 +1,8 @@
 Hello I'm Elmar <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50" height="50" />
 ===
 - 🏫 Bachelors in Computer Science @ [San Jose State University](https://www.sjsu.edu/)
-- 👨‍💻 Interested in fullstack and machine learning
-- 🎢 Currently looking for a Software Engineering role 
+- 👨‍💻 Currently working at Microsoft as a Software Engineer
+- 🎢 Interested in fullstack and machine learning
 - ⚡ Living in Silicon Valley CA 
 
 ## Other Interests
